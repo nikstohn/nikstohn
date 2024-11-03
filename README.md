@@ -56,6 +56,10 @@
 
 ###
 
+<h2 align="left">What’s in my ears</h2>
+
+###
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1121774497)
 
 ###
